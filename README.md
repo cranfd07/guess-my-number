@@ -1,5 +1,5 @@
 # guess-my-number
 
-I am not sure why I am writing this but I am.
+This is a game I created to help me better learn JS.
 
-## this is a title
+## Guess My Number 
